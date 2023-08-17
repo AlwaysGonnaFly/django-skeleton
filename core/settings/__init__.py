@@ -33,7 +33,6 @@ base_settings = [
     # security
     'components/security.py',
     'components/cors.py',
-    'components/defender.py',
 
     # dev/prod
     'production.py',

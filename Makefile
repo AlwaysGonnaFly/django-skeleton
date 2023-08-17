@@ -7,9 +7,6 @@ clean:
 	find . -iname "*.pyo" -delete
 	find . -iname "__pycache__" -delete
 
-cleandefender:
-	python manage.py cleanup_django_defender
-
 clearcache:
 	python manage.py invalidate_cachalot
 

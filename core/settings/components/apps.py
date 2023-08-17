@@ -8,5 +8,4 @@ INSTALLED_APPS = [
 
     'corsheaders',
     'cachalot',
-    'defender',
 ]

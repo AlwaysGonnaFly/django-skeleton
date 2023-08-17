@@ -7,7 +7,7 @@
 ## Create django project
 
 ```sh
-django-admin startproject --template https://github.com/hotbaby/django-project-skeleton/archive/master.zip project_name
+django-admin startproject --template https://github.com/AlwaysGonnaFly/django-skeleton/archive/refs/heads/main.zip project_name
 ```
 
 <p align="center">❤️</p>

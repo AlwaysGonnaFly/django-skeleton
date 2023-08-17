@@ -1,4 +1,5 @@
-# ! manage.py invalidate_cachalot - инвалидация всего кеша
+# Cache (django-cachalot)
+# https://django-cachalot.readthedocs.io/en/latest/
 
 CACHES = {
     'default': {

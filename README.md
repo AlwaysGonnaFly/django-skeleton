@@ -2,6 +2,6 @@
   <span><img src="https://github.com/edisonlee55/edisonlee55/raw/master/kita-ikuyo-rap.webp" alt="Banner"></span>
 </p>
  
-<h1 align="center">Django Skeleton, no Docker!</h1>
+<h1 align="center">Django Skeleton, use redis, no Docker!</h1>
 
 <p align="center">❤️</p>
